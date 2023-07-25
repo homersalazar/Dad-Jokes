@@ -1,0 +1,14 @@
+:root{
+  --background: #fcd52f;
+  --accent: #f9f8c2;
+}
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  background: var(--background);
+}
